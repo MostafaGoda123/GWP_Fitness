@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GWP_Fitness/static/css/main.bb132b4a.css",
+    "main.js": "/GWP_Fitness/static/js/main.63239d0b.js",
+    "static/media/banner.png": "/GWP_Fitness/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/gym.png": "/GWP_Fitness/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/GWP_Fitness/index.html",
+    "main.bb132b4a.css.map": "/GWP_Fitness/static/css/main.bb132b4a.css.map",
+    "main.63239d0b.js.map": "/GWP_Fitness/static/js/main.63239d0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb132b4a.css",
+    "static/js/main.63239d0b.js"
+  ]
+}
